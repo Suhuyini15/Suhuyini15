@@ -2,7 +2,7 @@
 **Data Scientist & AI/ML Engineer**
 
 I design, build, and deploy data-driven and machine learning systems that turn raw data into practical, real-world solutions.  
-My work focuses on applied AI, clean and maintainable Python code, and solving problems end-to-end — from data exploration and modeling to evaluation and deployment
+My work focuses on applied AI, clean and maintainable Python code, and solving problems end-to-end from data exploration and modeling to evaluation and deployment
 
 ---
 
