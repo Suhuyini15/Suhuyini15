@@ -46,4 +46,5 @@ _(See pinned repositories for more projects and implementation details.)_
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/harriet-yahaya-20gh40a
+- Email: suhuiniyahaya09@gmail.com
 - GitHub: You’re already here 🙂
